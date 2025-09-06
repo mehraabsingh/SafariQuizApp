@@ -16,7 +16,7 @@ Built using **Swift** and **UIKit** while practicing iOS development concepts.
 
 ## 🚀 How to Run  
 1. Clone the repo:  
-   git clone https://github.com/your-username/SafariQuizApp.git
+   git clone https://github.com/mehraabsingh/SafariQuizApp.git
 
 
 2. Open the project in **Xcode**.
